@@ -1,13 +1,14 @@
 # 👋 Welcome!
 
-I am an undergraduate student in Systems Analysis and Development, acting as a Backend Software Developer. 
+I am an undergraduate student in Systems Analysis and Development. 
 
 I am continuously learning and exploring different ways to solve complex, real-world problems through technology. I value clean code, scalable architecture, and consistent technical growth, with a strong focus on building resilient backend ecosystems.
 
 ## 🔧 Technologies and tools
 
 **Backend:** Java · Spring Boot · REST APIs · PostgreSQL · Docker
-**Tools:** Git · GitHub · Maven · Swagger
+**Frontend:** Typescript · Angular · CSS3 · HTML5 · Bootstrap
+**Tools:** Git · GitHub · Maven · Swagger · JUnit 
 
 ## 🧠 Currently exploring
 
@@ -22,4 +23,4 @@ LinkedIn: https://www.linkedin.com/in/jeanemirele
 
 ## 💡 About me
 
-I believe knowledge creates freedom and opportunity. I am deeply focused on building solid engineering skills and expanding my expertise to architect large-scale backend solutions that drive real value.
+I believe knowledge creates freedom and opportunity. I am deeply focused on building solid engineering skills and expanding my expertise to architect large-scale software solutions that drive real value.
