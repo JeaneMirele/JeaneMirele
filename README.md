@@ -1,21 +1,19 @@
 # 👋 Welcome!
 
-I am an undergraduate student in Systems Analysis and Development. 
-
-I am continuously learning and exploring different ways to solve complex, real-world problems through technology. I value clean code, scalable architecture, and consistent technical growth, with a strong focus on building resilient backend ecosystems.
+I am a Java Backend Developer focused on solving complex, real-world problems through robust technology. I value clean code, scalable architecture, and consistent technical growth, with a strong emphasis on building resilient and distributed backend ecosystems.
 
 ## 🔧 Technologies and tools
+Backend & Frameworks: Java · Spring Boot · Spring Cloud · Spring MVC · Spring Security · Spring Data JPA/Hibernate · JSF
 
-**Backend:** Java · Spring Boot · REST APIs · PostgreSQL · Docker
-**Frontend:** Typescript · Angular · CSS3 · HTML5 · Bootstrap
-**Tools:** Git · GitHub · Maven · Swagger · JUnit 
+Architecture & Integration: Microservices · RabbitMQ · REST APIs
 
-## 🧠 Currently exploring
+Databases & Caching: PostgreSQL · MongoDB · Redis
 
-- **High-Scale Applications & Distributed Systems:** Studying how to design systems that handle large volumes of data and traffic.
-- **Advanced Architecture:** Deepening my knowledge in Microservices, Event-Driven Architecture, and Design Patterns.
-- **Code Quality:** Continuously applying Clean Code and SOLID principles to ensure long-term software sustainability.
-- **Containerization & DevOps:** Optimizing environment isolation and deployment workflows using Docker.
+**DevOps & Infrastructure:**  Docker · Jenkins · Git · GitHub · Gitlab 
+
+**Testing & Quality:** JUnit · Mockito 
+
+**Tools:** Maven · Swagger · Postman
 
 ## 📫 How to reach me
 
